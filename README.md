@@ -1,3 +1,10 @@
+Fork of https://github.com/FrameworkComputer/inputmodule-rs containing quality of life changes for my own personal system
+
+# Changes from Upstream:
+
+
+# Original Readme
+
 # Framework Laptop 16 - Input Module Firmware/Software
 
 This repository contains both the firmware for the Framework Laptop 16 input modules,
